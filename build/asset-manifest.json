@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/privateweb/static/css/main.5a3f137b.css",
+    "main.js": "/privateweb/static/js/main.f9978f98.js",
+    "index.html": "/privateweb/index.html",
+    "main.5a3f137b.css.map": "/privateweb/static/css/main.5a3f137b.css.map",
+    "main.f9978f98.js.map": "/privateweb/static/js/main.f9978f98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a3f137b.css",
+    "static/js/main.f9978f98.js"
+  ]
+}

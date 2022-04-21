@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/easy-agro/static/css/main.9d561a8e.css",
+    "main.js": "/easy-agro/static/js/main.63a95738.js",
+    "index.html": "/easy-agro/index.html",
+    "main.9d561a8e.css.map": "/easy-agro/static/css/main.9d561a8e.css.map",
+    "main.63a95738.js.map": "/easy-agro/static/js/main.63a95738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d561a8e.css",
+    "static/js/main.63a95738.js"
+  ]
+}

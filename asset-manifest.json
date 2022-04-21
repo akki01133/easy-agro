@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/easy-agro/static/css/main.59e57a79.css",
-    "main.js": "/easy-agro/static/js/main.87dc0cb5.js",
+    "main.css": "/easy-agro/static/css/main.a27582f9.css",
+    "main.js": "/easy-agro/static/js/main.c6397c9c.js",
     "index.html": "/easy-agro/index.html",
-    "main.59e57a79.css.map": "/easy-agro/static/css/main.59e57a79.css.map",
-    "main.87dc0cb5.js.map": "/easy-agro/static/js/main.87dc0cb5.js.map"
+    "main.a27582f9.css.map": "/easy-agro/static/css/main.a27582f9.css.map",
+    "main.c6397c9c.js.map": "/easy-agro/static/js/main.c6397c9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.59e57a79.css",
-    "static/js/main.87dc0cb5.js"
+    "static/css/main.a27582f9.css",
+    "static/js/main.c6397c9c.js"
   ]
 }
